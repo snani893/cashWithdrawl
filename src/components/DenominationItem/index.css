@@ -1,0 +1,10 @@
+.button {
+  width: 180px;
+  padding: 6px;
+  text-align: center;
+  color: #d4d2db;
+  background-color: #585076;
+  list-style-type: none;
+  cursor:pointer;
+  outline: none;
+}
